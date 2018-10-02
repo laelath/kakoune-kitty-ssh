@@ -7,4 +7,4 @@ Add `kitty-ssh.kak` to your autoload or source it manually
 
 ## Usage
 
-Call `new`, `new-tab`, or `repl` when using kakoune on and ssh server.
+Call `new`, `new-tab`, or `repl` when using kakoune on an ssh server.
